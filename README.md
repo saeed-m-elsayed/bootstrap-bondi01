@@ -1,2 +1,2 @@
-# bootstarp-bondi01
-bootstarp-bondi01
+# bootstrap-bondi01
+bootstrap-bondi01
